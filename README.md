@@ -1,4 +1,4 @@
-# TCR analysis immunotherapy
+# TCR analysis for immunotherapy
 
 This repository is dedicated to the analysis of TCR repertoires in cancer patients treated with immunotherapy. 
 It accompanies the chapter 'TCR repertoire analysis for anticancer immunotherapy' in Molecular and Cellular Biology.
